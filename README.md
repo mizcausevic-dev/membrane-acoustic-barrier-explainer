@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/membrane-acoustic-barrier-explainer/
 
+Repository: https://github.com/mizcausevic-dev/membrane-acoustic-barrier-explainer
+
 ## What this is
 
 An interactive anatomy plate for Membrane Acoustic Barrier. Play, scrub, or jump the five stages. The same frame always draws the same picture.
